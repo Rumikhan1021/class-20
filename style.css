@@ -1,0 +1,18 @@
+
+.header{
+    background-color:#e3f2fd ;
+}
+.navbar-nav img {
+    vertical-align: middle;
+    border-style: none;
+    height: 40px;
+}
+.scrollspy-example {
+    position: relative;
+    height: 200px;
+    margin-top: .5rem;
+    overflow: auto;
+}
+.btn-group{
+    margin-left: -35px;
+}
